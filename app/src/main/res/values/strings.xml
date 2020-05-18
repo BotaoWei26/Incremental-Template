@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="time">Time:</string>
+    <string name="click">Click:</string>
+    <string name="tick">Tick:</string>
+    <string name="speed">Speed:</string>
+    <string name="add_click">Add Click \n Cost:</string>
+    <string name="add_tick">Add Tick \n Cost:</string>
+    <string name="add_speed">Add Speed \n Cost:</string>
+</resources>
